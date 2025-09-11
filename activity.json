@@ -1,7 +1,7 @@
 {
   "Servers": {
-    "Active": true,
+    "Active": false,
     "Message": "Hi"
   },
-  "Activitas": 7
+  "Activitas": 1
 }
