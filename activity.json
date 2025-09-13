@@ -1,9 +1,9 @@
 {
   "Servers": {
     "Active": false,
-    "Message": "Hi"
-    "Message1": "p"
-    "Message2": "asu"
+    "Message": "Hi",
+    "Message1": "p",
+    "Message2": "asu",
     "Message3": "hola"
   },
   "Activitas": 1
